@@ -23,3 +23,18 @@ npm run dev
 Live URL for API host via vercel
 
 https://101318950-comp-3123-assignment1.vercel.app/
+
+
+
+
+
+SAMPLE USER 
+
+username
+"johndoe"
+
+email
+"johndoe@example.com"
+
+password
+"$2b$10$fsJfOqXH2udP4FZnwEzTnupgKTx1MpL4V29wO5nLgvZu6wijbPqYy"

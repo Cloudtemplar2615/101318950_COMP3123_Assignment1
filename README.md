@@ -5,9 +5,10 @@ To run locally clone repo
 
 Installation 
 
-npm install
+1.npm install
 
-Create a .env file
+2.Create a .env file
+
 PORT=8080
 
 MONGODB_URI=your_mongo_atlas_uri
@@ -17,7 +18,7 @@ JWT_SECRET=supersecret
 JWT_EXPIRES=1d
 
 
-npm run dev
+3.npm run dev
 
 
 Live URL for API host via vercel

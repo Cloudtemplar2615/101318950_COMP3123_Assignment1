@@ -1,6 +1,8 @@
 Assignment 1 Comp3123
 
 
+To run locally clone repo
+
 Installation 
 
 npm install

@@ -49,4 +49,5 @@ It now includes:
 - Login/Signup with JWT
 - File upload for profile pictures
 - Docker support (Dockerfile + docker-compose)
+- On local/Docker, profile pictures are uploaded to the uploads/ folder and work as expected. On the Vercel deployment, file uploads are limited because the backend runs as serverless functions, so image upload may fail there. Please use the local/Docker setup to test file uploads.
 

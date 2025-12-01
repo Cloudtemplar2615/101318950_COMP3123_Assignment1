@@ -1,9 +1,9 @@
 Assignment 1 Comp3123
 
 
-To run locally clone repo
+## To run locally clone repo
 
-Installation 
+## Installation 
 
 1.npm install
 
@@ -21,7 +21,7 @@ JWT_EXPIRES=1d
 3.npm run dev
 
 
-Live URL for API host via vercel
+## Live URL for API host via vercel
 
 https://101318950-comp-3123-assignment1.vercel.app/
 
@@ -29,7 +29,7 @@ https://101318950-comp-3123-assignment1.vercel.app/
 
 
 
-SAMPLE USER 
+## SAMPLE USER 
 
 username
 "johndoe"
@@ -39,3 +39,14 @@ email
 
 password
 "$2b$10$fsJfOqXH2udP4FZnwEzTnupgKTx1MpL4V29wO5nLgvZu6wijbPqYy"
+
+
+## Assignment 2 Note
+
+This backend from Assignment 1 is reused as the API for Assignment 2 (React frontend).
+It now includes:
+- Employee CRUD endpoints
+- Login/Signup with JWT
+- File upload for profile pictures
+- Docker support (Dockerfile + docker-compose)
+

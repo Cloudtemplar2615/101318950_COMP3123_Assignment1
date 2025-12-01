@@ -38,7 +38,7 @@ email
 "johndoe@example.com"
 
 password
-"$2b$10$fsJfOqXH2udP4FZnwEzTnupgKTx1MpL4V29wO5nLgvZu6wijbPqYy"
+"$2b$10$fsJfOqXH2udP4FZnwEzTnupgKTx1MpL4V29wO5nLgvZu6wijbPqYy" if doesnt work try password123
 
 
 ## Assignment 2 Note
